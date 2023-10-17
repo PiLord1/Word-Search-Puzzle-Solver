@@ -9,6 +9,8 @@ The puzzle is laid-out as a 2D grid with the origin (0,0) at the top-most left p
 
 The program can be divided into two distinct parts, namely puzzle input and puzzle solving.
 
+Here is a **video demo**: https://youtu.be/-rlgEueerH8
+
 
 ## PART 1: 
 ### Data Inputs: Fetching, Sorting, and Printing Words
