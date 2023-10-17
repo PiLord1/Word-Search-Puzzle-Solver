@@ -7,9 +7,9 @@ The puzzle is laid-out as a 2D grid with the origin (0,0) at the top-most left p
 
 ![image](https://github.com/PiLord1/Word-Search-Puzzle-Solver/assets/51207250/d486ad0b-13d4-4c18-88d6-43b9917fb96d)
 
-The program can be divided into two distinct parts, namely puzzle input and puzzle solving.
-
 Here is a **video demo**: https://youtu.be/-rlgEueerH8
+
+The program can be divided into two distinct parts, namely puzzle input and puzzle solving.
 
 
 ## PART 1: 
