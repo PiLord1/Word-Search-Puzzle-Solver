@@ -12,8 +12,8 @@ Here is a **video demo**: https://youtu.be/-rlgEueerH8
 The program can be divided into two distinct parts, namely puzzle input and puzzle solving.
 
 
-## PART 1: 
-### Data Inputs: Fetching, Sorting, and Printing Words
+## PART 1: Data Inputs
+### Fetching, Sorting, and Printing Words
 Ask the user for a number, **n**, that will determine the number of words that will be given to you. Store these words in a list named ‘words’. Use the _get_words()_ function to ask and store the words given by the user. The words will have a length no longer than 15 characters.
 
 After the words have been saved, call the _sort_words()_ function. This function sorted the words alphabetically, starting from a to z. The sorted words should still be in the ‘words’ array.
@@ -37,8 +37,7 @@ Ask the user for another integer, **m**, that will be used to create the mxm _bo
 ![image](https://github.com/PiLord1/Word-Search-Puzzle-Solver/assets/51207250/6e512c58-18e3-4fd2-ba3e-be65f8fa271e)
 
 
-## PART 2: 
-### Word Search Solver
+## PART 2: Word Search Solver
 
 Now, since I’ve already created a means for initializing the board and entering the words to search, it is time to create my own algorithm for searching the words. My algorithm followed the following conventions:
 * Origin (row 0, col 0) should be located at the top most left cell of your board.
