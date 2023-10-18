@@ -39,7 +39,7 @@ Ask the user for another integer, **m**, that will be used to create the mxm _bo
 
 ## PART 2: Word Search Solver
 
-Now, since I’ve already created a means for initializing the board and entering the words to search, it is time to create my own algorithm for searching the words. My algorithm followed the following conventions:
+Now, since I’ve already created a means for initializing the board and entering the words to search, it is time to create the algorithm for searching the words. My algorithm followed the following conventions:
 * Origin (row 0, col 0) should be located at the top most left cell of your board.
 * It is assumed that the word search can be completed by looking for the words in the following directions: left, right, up, down, and the four diagonals. There will be no instances where the word cannot be found in a straight line on the board.
 
