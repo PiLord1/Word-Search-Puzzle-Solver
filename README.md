@@ -1,5 +1,4 @@
 # Word Search Puzzle Solver
-_Project idea by Darvy Ong_
 
 In this project, a program was developed that would automatically solve a word search puzzle. The puzzle itself and the list of words to search will be provided by the user. The program then searches for each word in the puzzle until all the words have been found. It then displays the solution to the puzzle.
 
